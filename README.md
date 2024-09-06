@@ -4,36 +4,23 @@ This template is the starting point for web development sessions at Trinity Acad
 
 As you work through the project, complete this document and check the boxes next to the objectives as you complete them.
 
-# 1. GitHub Setup
+# 1. Session 1: GitHub Setup
 
-In this session, you'll set up your development environment and get started with GitHub.
+Follow the printout.
 
-Objectives:
+# 2. Session 2: Starting Development
 
-- [ ] Create a [GitHub](https://github.com/) account.
-- [ ] Copy the [template repository](https://github.com/trinity-academy-webdev/website-template) to your new GitHub account.
-- [ ] Clone the **repository** to your PC and open it in [Visual Studio Code](https://code.visualstudio.com/)
-- [ ] Deploy the website and view it live.
-- [ ] View the website locally using the [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) extension.
-- [ ] *Extension: Play around with the website and view your changes*
+In this session you will work with HTML, You need to complete the following tasks:
+1. Changing The Title:
+    -[ ] Find the title text wrapped in a <h1> tag and change it.
+    -[ ] Change the text below the titile to include the name of your school.
+2. Changing the description:
+    -[ ] Change the header of the description section
+    -[ ] Change the description text to include a breief description of what you want
+3. Adding an image
+    -[ ] Using the <img> tag choose one of the images from the Charity Images folder to display below the description
+4. Changing 
 
-> [!IMPORTANT]  
-> Remember to record your progress as you go along!
-
-
-# 2. Requirements & Start Development
-
-In this session, you'll plan your tasks and begin making changes to the website's content and design.
-
-Objectives: 
-
-- [ ] Prioritise the tasks, deciding which are most important. Then reorder the tasks below.
-- [ ] Change the HTML and CSS files to make the changes required.
-
-Tasks:
-
-1. Title
-2. Intro text
 2. Gallery Section
 3. Events Section
 4. Donation Popup
